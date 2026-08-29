@@ -3,6 +3,18 @@ Conteúdos da apresentação "Docker e Kubernetes: dicas e truques para descompl
 
 ## Algumas dicas e truques
 
+### Container Tools for Visual Studio Code
+
+Uma alternativa a ferramentas licenciadas.
+
+Link: **https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers**
+
+Testes:
+
+```bash
+docker run -e "EndpointRequest=https://httpbin.org/get" -d renatogroffe/dotnet10-worker-httprequest:2
+```
+
 ### Dashboards Grafana + Prometheus monitorando clusters Kubernetes
 
 Dashboards gratuitos: **https://github.com/dotdc/grafana-dashboards-kubernetes**
@@ -12,6 +24,8 @@ Dashboards gratuitos: **https://github.com/dotdc/grafana-dashboards-kubernetes**
 ### Dashboards with Grafana
 
 Nova funcionalidade no Portal do Azure.
+
+### Simplificando a navegação entre clusters com kubectx
 
 Listando os clusters/containers registrados:
 
@@ -26,6 +40,21 @@ kubectl config use-context <context-name>
 ```
 
 Link: **https://github.com/ahmetb/kubectx**
+
+### Kor - objetos em desuso num cluster Kubernetes
+
+Link: **https://github.com/yonahd/kor**
+
+### Escalabilidade com KEDA
+
+Link: https://keda.sh/
+
+### Scanning de vulnerabilidades com Triy
+
+Link: **https://trivy.dev/**
+
+Exemplo: **https://github.com/renatogroffe/trivy_operator-aks-managed_prometheus** 
+
 
 ### Docker MCP Catalog (MCP Servers seguros)
 
@@ -48,12 +77,8 @@ Utilizando o MCP Server de Kubernetes no VS Code
 }
 ```
 
-### Escalabilidade com KEDA
+### Certificações gratuitas
 
-Link: 
+* Linux Foundation: **https://training.linuxfoundation.org/full-catalog/?_sfm_price=0**
 
-### Scanning de vulnerabilidades com Triy
-
-Link: **https://trivy.dev/**
-
-Exemplo: **https://github.com/renatogroffe/trivy_operator-aks-managed_prometheus** 
+* Grafana: **https://learn.grafana.com/**
