@@ -45,6 +45,10 @@ Link: **https://github.com/ahmetb/kubectx**
 
 Link: **https://github.com/yonahd/kor**
 
+### k9s - Monitoramento e gerenciamento de objetos do Kubernetes via interface + linha de comando
+
+Link: **https://k9scli.io/**
+
 ### Escalabilidade com KEDA
 
 Link: https://keda.sh/
