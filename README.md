@@ -53,7 +53,7 @@ Link: **https://k9scli.io/**
 
 Link: https://keda.sh/
 
-### Scanning de vulnerabilidades com Triy
+### Scanning de vulnerabilidades com Trivy
 
 Link: **https://trivy.dev/**
 
