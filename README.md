@@ -1,5 +1,5 @@
 # docker-kubernetes_cloud-weekend-2026-08
-Conteúdos da apresentação "Docker e Kubernetes: dicas e truques para descomplicar sua vida ao trabalhar com containers!".
+Conteúdos da apresentação "Docker e Kubernetes: dicas e truques para descomplicar sua vida ao trabalhar com containers!". Tecnologias abordadas: Kubernetes, Docker, Linux, Azure Kubernetes Service, Grafana, Prometheus, OpenTelemetry, Azure DevOps, KEDA, MCP, Inteligência Artificial, Visual Studio Code...
 
 ## Algumas dicas e truques
 
