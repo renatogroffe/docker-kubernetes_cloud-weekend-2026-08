@@ -61,7 +61,6 @@ Link: **https://trivy.dev/**
 
 Exemplo: **https://github.com/renatogroffe/trivy_operator-aks-managed_prometheus** 
 
-
 ### Docker MCP Catalog (MCP Servers seguros)
 
 Link: **https://hub.docker.com/mcp**
