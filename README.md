@@ -44,18 +44,17 @@ Configurando o uso de um cluster via kubectl:
 ```bash
 kubectl config use-context <context-name>
 ```
-
 Link: **https://github.com/ahmetb/kubectx**
+
+### k9s - Monitoramento e gerenciamento de objetos do Kubernetes via interface + linha de comando
+
+Link: **https://k9scli.io/**
 
 ### Kor - objetos em desuso num cluster Kubernetes
 
 Link: **https://github.com/yonahd/kor**
 
 Pipeline de exemplo: **https://github.com/renatogroffe/azuredevops-kubernetes-kor**
-
-### k9s - Monitoramento e gerenciamento de objetos do Kubernetes via interface + linha de comando
-
-Link: **https://k9scli.io/**
 
 ### Escalabilidade com KEDA
 
