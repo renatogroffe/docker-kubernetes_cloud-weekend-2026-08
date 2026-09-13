@@ -25,6 +25,12 @@ Dashboards gratuitos: **https://github.com/dotdc/grafana-dashboards-kubernetes**
 
 Nova funcionalidade no Portal do Azure.
 
+### Emulando clusters Kubernetes com kind
+
+Link: **https://kind.sigs.k8s.io/**
+
+Exemplo: **https://github.com/renatogroffe/kubernetes-kind_worker-httprequests**
+
 ### Simplificando a navegação entre clusters com kubectx
 
 Listando os clusters/containers registrados:
